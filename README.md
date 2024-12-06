@@ -18,13 +18,13 @@ This project, started as part of a university assignment, implements a **peer-to
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/Finger-Food/synchronous_blockchain
+   cd synchronous_blockchain
    ```
 
 2. Install dependencies if necessary:
    ```bash
-   pip install -r requirements.txt
+   pip install requirements.txt
    ```
 
 3. Create a node discovery file for each node (e.g., `node-list.txt`) with each line containing an IP address and port of *other* nodes in the network in the format:
