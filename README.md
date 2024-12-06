@@ -1,4 +1,4 @@
-# Blockchain Node Implementation
+# Synchronous Crash Fault-Tolerant Blockchain
 
 ## Project Description
 
