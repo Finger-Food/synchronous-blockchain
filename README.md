@@ -150,9 +150,3 @@ with `Y` in the range `[1..5]`
 - Implement advanced consensus protocols (e.g., Proof of Stake, Proof of Work).
 - Add encryption for secure message exchanges.
 - Extend the system to support more complex smart contracts.
-
----
-
-### Aside
-
-This README was created with extensive assistance from chatGPT. Really cool!
