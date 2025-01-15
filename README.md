@@ -18,7 +18,7 @@ This project, started as part of a university assignment, implements a **peer-to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Finger-Food/synchronous_blockchain
+   git clone https://github.com/Finger-Food/synchronous-blockchain
    cd synchronous_blockchain
    ```
 
